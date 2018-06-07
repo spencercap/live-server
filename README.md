@@ -2,6 +2,9 @@
 [![npm module downloads per month](http://img.shields.io/npm/dm/live-server.svg)](https://www.npmjs.org/package/live-server)
 [![build status](https://travis-ci.org/tapio/live-server.svg)](https://travis-ci.org/tapio/live-server)
 
+/// just made a small edit to line 45 of index.js removing SVG to remedy multiple inline SVGs in HTML files ///
+/// @spencercap ///
+
 Live Server
 ===========
 
